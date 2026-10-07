@@ -63,7 +63,7 @@ Note: I/O will be automatically handled.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-07T15:19:16.438Z  
+**Submitted:** 2026-10-07T15:26:26.474Z  
 
 ```c
 #include <stdio.h>
@@ -84,7 +84,6 @@ int main() {
     
     return 0;
 }
-// practice problem
 
 ```
 
